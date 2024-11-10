@@ -1,0 +1,6 @@
+first of all take input from user 
+detect the Language
+ask if want to translate 
+    if yes ask the language to translate
+    speck the translated text
+if no stop  
