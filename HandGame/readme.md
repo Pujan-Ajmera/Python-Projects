@@ -1,5 +1,3 @@
-Here's the updated LinkedIn caption:
-
 🎮 **Interactive Hand-Tracking Game** 🚀
 
 Excited to share a fun project that combines hand-tracking and interactive gaming! ✋👾
