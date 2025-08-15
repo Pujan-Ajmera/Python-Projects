@@ -4,8 +4,8 @@ from selenium.webdriver.common.keys import Keys
 import time
 
 # ====== User Config ======
-USERNAME = "karan280917"
-PASSWORD = "Pujan@123"
+USERNAME = ""
+PASSWORD = ""
 FIRST_REEL = "DLuzhkqvGi7"
 COLLECTION_LINK = f"https://www.instagram.com/{USERNAME}/saved/all-posts/"
 WATCH_TIME = 6  # fallback in seconds if duration can't be fetched
@@ -59,3 +59,4 @@ try:
 
 finally:
     driver.quit()
+
