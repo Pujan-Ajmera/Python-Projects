@@ -7,8 +7,8 @@ from selenium.webdriver.chrome.options import Options
 # ========================
 # CONFIG
 # ========================
-USERNAME = "pujanajmera2"
-PASSWORD = "AjmeraPujan@1816"
+USERNAME = ""
+PASSWORD = ""
 FIRST_REEL = "DLuzhkqvGi7"  # Shortcode of the first reel to play https://www.instagram.com/p/DNAHANozHUf/
 COLLECTION_LINK = f"https://www.instagram.com/{USERNAME}/saved/all-posts/"
 WATCH_TIME = 6  # Fallback watch time in seconds
@@ -71,3 +71,4 @@ try:
 
 finally:
     driver.quit()
+
