@@ -6,7 +6,7 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.chrome.options import Options
 import time
 
-time.sleep(50)
+#time.sleep(50)
 USERNAME = os.getenv("USERNAME")
 PASSWORD = os.getenv("PASSWORD")
 FIRST_REEL = "DLuzhkqvGi7"
@@ -51,3 +51,4 @@ try:
             break
 finally:
     driver.quit()
+
