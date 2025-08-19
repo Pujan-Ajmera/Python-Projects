@@ -5,3 +5,5 @@ For accounts with many liked reels, it may take some time to process everything,
 boom all your reels are unliked 
 Just install the requirements and run the code. Sharing this for anyone who might find it useful.
 NOTE : I dont store any passwords or anything.
+use this thing to directly install all the dependencies
+pip install -r requirements.txt
